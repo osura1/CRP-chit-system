@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Dao/courts_dao.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Dao/visitors_dao.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/prisoner_move_interface.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/visitor_display.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Dao/prisoner_move_dao.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/admin_details_interface.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/chit_interface.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Beans/visitors.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/prison_display.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/CRPChitSystem.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Dao/admin_dao.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Beans/admins.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Dao/DBConnection.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/visits_interface.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/prisoner_interface.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Dao/prisoner_dao.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Beans/visits.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Beans/prisoners.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Dao/send_mail.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/startup.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Dao/visits_dao.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/home_page.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Beans/prisoner_move.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/courts_interface.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/admin_login.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Beans/courts.java</file>
+            <file>file:/C:/Users/Osura/Documents/NetBeansProjects/CRP%20Chit%20System/src/crp/chit/system/Control/visitors_interface.java</file>
+        </group>
+    </open-files>
+</project-private>
